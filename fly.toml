@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for commit-damp-shadow-1313 on 2024-11-20T21:00:56-03:00
+# fly.toml app configuration file generated for commit-late-dew-4901 on 2024-11-20T21:34:37-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'commit-damp-shadow-1313'
+app = 'commit-late-dew-4901'
 primary_region = 'gig'
 
 [build]
