@@ -8,6 +8,7 @@
     --shadow-dark: 0 8px 24px rgba(0, 255, 102, 0.3);
 }
 
+
 [data-theme="dark"] {
     --background: var(--background-dark);
     --text: var(--text-dark);
@@ -38,6 +39,8 @@ body {
     overflow: hidden;
     position: relative;
 }
+
+/**/
 
 /* Background Animation */
 .background {
